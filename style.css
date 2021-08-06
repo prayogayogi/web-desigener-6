@@ -1,0 +1,165 @@
+.grub {
+  background-image: url(image/pic.png);
+  background-size: cover;
+  height: 630px;
+}
+
+.navbar-nav a {
+  color: #FFFFFF;
+  font-size: 18px;
+  font-family: 'Lato', sans-serif;
+}
+
+.body .text {
+  margin-top: 120px;
+}
+
+.text h2 {
+  color: #FFFFFF;
+  font-size: 48px;
+}
+
+.text p {
+  color: #FFFFFF;
+  font-size: 18px;
+  margin-top: 20px;
+}
+
+.card {
+  margin-top: 140px;
+}
+
+.body .card {
+  width: 400px;
+  height: 532px;
+}
+
+.body .card p {
+  margin-left: 30px;
+  font-family: 'Lato', sans-serif;
+}
+
+#export button {
+  background-color: #539592;
+  border: none;
+  width: 340px;
+  height: 60px;
+  color: #FFFFFF;
+  font-size: 18px;
+  font-family: 'Lato', sans-serif;
+}
+
+.tengah{
+  margin-top: 203px;
+
+}
+.tengah p{
+  font-family: 'Lato', sans-serif;
+  color: #FF9050;
+}
+.tengah h2{
+  font-family: 'Lato', bold ;
+  color: #2B312E;
+}
+
+.tengah .your{
+  justify-content: center;
+}
+
+.tengah img{
+  margin-top: 70px;
+  width: 255px;
+  height: 400px;
+}
+
+.cilent {
+  margin-top: 310px;
+}
+
+.cilent #our{
+  font-size: 18px;
+  font-family: 'Lato', sans-serif;
+  color: #FF9050;
+}
+.cilent h2{
+  font-size: 36px;
+  font-family: 'Lato', sans-serif;
+  color: #2B312E;
+}
+.cilent #coment{
+  font-size: 22px;
+  font-family: 'Lato', regular;
+  color: #6B6A6A;
+  margin-top: 30px;
+  margin-left: 63px;
+  margin-bottom: 20px;
+}
+
+.cilent .log img{
+margin-right: 40px;
+margin-top: 70px;
+}
+
+.footer{
+  background-color: #192E46;
+  margin-top: 127px;
+  width: 1350px;
+}
+
+.footer .card{
+  width: 835px;
+  height: 130px;
+  margin-top: -65px;
+  margin-left: 355px;
+  border: none;
+}
+
+.footer .sub{
+  margin-left: 35px;
+  margin-top: 31px;
+}
+
+.footer .email{
+  margin-left: 5px;
+  margin-top: 54px;
+}
+
+.footer button{
+  margin-right: 80px;
+  margin-top: 40px;
+  background-color: #539592;
+  border: none;
+  width: 160px;
+  height: 50px;
+  color: #FFFFFF;
+  font-family: 'Lato', sans-serif;
+}
+
+.footer #gam{
+  margin-top: 135px;
+  color: #FFFFFF;
+}
+.footer #gam p{
+  margin-top: 20px;
+}
+
+
+.footer #fo{
+  margin-top: 146px;
+  color: #FFFFFF;
+  margin-bottom: 89px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
