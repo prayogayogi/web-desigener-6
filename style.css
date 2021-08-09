@@ -49,24 +49,26 @@
   font-family: 'Lato', sans-serif;
 }
 
-.tengah{
+.tengah {
   margin-top: 203px;
 
 }
-.tengah p{
+
+.tengah p {
   font-family: 'Lato', sans-serif;
   color: #FF9050;
 }
-.tengah h2{
-  font-family: 'Lato', bold ;
+
+.tengah h2 {
+  font-family: 'Lato', bold;
   color: #2B312E;
 }
 
-.tengah .your{
+.tengah .your {
   justify-content: center;
 }
 
-.tengah img{
+.tengah img {
   margin-top: 70px;
   width: 255px;
   height: 400px;
@@ -76,17 +78,19 @@
   margin-top: 310px;
 }
 
-.cilent #our{
+.cilent #our {
   font-size: 18px;
   font-family: 'Lato', sans-serif;
   color: #FF9050;
 }
-.cilent h2{
+
+.cilent h2 {
   font-size: 36px;
   font-family: 'Lato', sans-serif;
   color: #2B312E;
 }
-.cilent #coment{
+
+.cilent #coment {
   font-size: 22px;
   font-family: 'Lato', regular;
   color: #6B6A6A;
@@ -95,18 +99,17 @@
   margin-bottom: 20px;
 }
 
-.cilent .log img{
-margin-right: 40px;
-margin-top: 70px;
+.cilent .log img {
+  margin-right: 40px;
+  margin-top: 70px;
 }
 
-.footer{
+.footer {
   background-color: #192E46;
   margin-top: 127px;
-  width: 1350px;
 }
 
-.footer .card{
+.footer .card {
   width: 835px;
   height: 130px;
   margin-top: -65px;
@@ -114,17 +117,17 @@ margin-top: 70px;
   border: none;
 }
 
-.footer .sub{
+.footer .sub {
   margin-left: 35px;
   margin-top: 31px;
 }
 
-.footer .email{
+.footer .email {
   margin-left: 5px;
   margin-top: 54px;
 }
 
-.footer button{
+.footer button {
   margin-right: 80px;
   margin-top: 40px;
   background-color: #539592;
@@ -135,31 +138,18 @@ margin-top: 70px;
   font-family: 'Lato', sans-serif;
 }
 
-.footer #gam{
+.footer #gam {
   margin-top: 135px;
   color: #FFFFFF;
 }
-.footer #gam p{
+
+.footer #gam p {
   margin-top: 20px;
 }
 
 
-.footer #fo{
+.footer #fo {
   margin-top: 146px;
   color: #FFFFFF;
   margin-bottom: 89px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
